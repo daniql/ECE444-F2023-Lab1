@@ -1,6 +1,6 @@
 # ECE444-F2023-Lab1
 Activity 1:
-https://github.com/daniql/ECE444-F2023-Lab1/blob/main/screenshots/activity_1.png
+![ScreenShot](https://github.com/daniql/ECE444-F2023-Lab1/blob/main/screenshots/activity_1.png)
 
 Activity 2:
 https://github.com/daniql/ECE444-F2023-Lab1/blob/main/screenshots/2-1_commit.png
